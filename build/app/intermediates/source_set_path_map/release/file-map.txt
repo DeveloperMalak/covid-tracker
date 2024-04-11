@@ -1,0 +1,12 @@
+com.example.covid_tracker.app-main-0 C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\res
+com.example.covid_tracker.app-release-1 C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\release\res
+com.example.covid_tracker.app-pngs-2 C:\Flutter-Covid-19-Tracker-App-Tutorials-main\build\app\generated\res\pngs\release
+com.example.covid_tracker.app-resValues-3 C:\Flutter-Covid-19-Tracker-App-Tutorials-main\build\app\generated\res\resValues\release
+com.example.covid_tracker.app-rs-4 C:\Flutter-Covid-19-Tracker-App-Tutorials-main\build\app\generated\res\rs\release
+com.example.covid_tracker.app-mergeReleaseResources-5 C:\Flutter-Covid-19-Tracker-App-Tutorials-main\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.covid_tracker.app-mergeReleaseResources-6 C:\Flutter-Covid-19-Tracker-App-Tutorials-main\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.covid_tracker.app-merged_res-7 C:\Flutter-Covid-19-Tracker-App-Tutorials-main\build\app\intermediates\merged_res\release
+com.example.covid_tracker.app-jetified-window-1.0.0-beta04-8 C:\Users\Personal\.gradle\caches\transforms-3\39dfba13257ff08e3a7cc32423be4e32\transformed\jetified-window-1.0.0-beta04\res
+com.example.covid_tracker.app-core-1.6.0-9 C:\Users\Personal\.gradle\caches\transforms-3\45151893995b8548e72aca0068806a6a\transformed\core-1.6.0\res
+com.example.covid_tracker.app-jetified-annotation-experimental-1.1.0-10 C:\Users\Personal\.gradle\caches\transforms-3\c5a0d7b94150e47a6c5a46b6ffece581\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.covid_tracker.app-jetified-window-java-1.0.0-beta04-11 C:\Users\Personal\.gradle\caches\transforms-3\cff3d4c16210ad85d8ee193a8dd35f6e\transformed\jetified-window-java-1.0.0-beta04\res

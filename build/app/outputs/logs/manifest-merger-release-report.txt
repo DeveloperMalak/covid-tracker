@@ -1,0 +1,162 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml:1:1-43:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Personal\.gradle\caches\transforms-3\cff3d4c16210ad85d8ee193a8dd35f6e\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Personal\.gradle\caches\transforms-3\39dfba13257ff08e3a7cc32423be4e32\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Personal\.gradle\caches\transforms-3\c7dbc5ac7876747871eb8206ebfa9a8f\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Personal\.gradle\caches\transforms-3\c586f001f46d1752ec0ca95f3c3264df\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Personal\.gradle\caches\transforms-3\0f5222ee2ee0aab6375fb09187b5fd3c\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Personal\.gradle\caches\transforms-3\27410b6d47c295ab01db37839fd3a609\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Personal\.gradle\caches\transforms-3\6baf897bded91d0742a6460f66671b09\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\Personal\.gradle\caches\transforms-3\45151893995b8548e72aca0068806a6a\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Personal\.gradle\caches\transforms-3\2101bc4af23dd8ee1a34cb7c8781f126\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Personal\.gradle\caches\transforms-3\e17c98e1e272a6cab1ad66cb6b98f7be\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Personal\.gradle\caches\transforms-3\052ae5e02d8597decd1c66ae50a01fd1\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Personal\.gradle\caches\transforms-3\d3d56a722affaa3b69a3a6565b577961\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Personal\.gradle\caches\transforms-3\608ca59533a2c531e18a3a2ef0518e0d\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Personal\.gradle\caches\transforms-3\32c1399c1b2db830bad5fda08dfbf7eb\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Personal\.gradle\caches\transforms-3\129597cc0e8a86f0ed13a46387f90674\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Personal\.gradle\caches\transforms-3\c9d3d4199352079a875f344e788d777f\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Personal\.gradle\caches\transforms-3\c5a0d7b94150e47a6c5a46b6ffece581\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml:1:1-43:12
+	package
+		ADDED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml:2:5-40
+		INJECTED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml:1:1-43:12
+		INJECTED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml:1:1-43:12
+		INJECTED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml:3:4-41:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Personal\.gradle\caches\transforms-3\39dfba13257ff08e3a7cc32423be4e32\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Personal\.gradle\caches\transforms-3\39dfba13257ff08e3a7cc32423be4e32\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\Personal\.gradle\caches\transforms-3\45151893995b8548e72aca0068806a6a\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\Personal\.gradle\caches\transforms-3\45151893995b8548e72aca0068806a6a\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Personal\.gradle\caches\transforms-3\129597cc0e8a86f0ed13a46387f90674\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Personal\.gradle\caches\transforms-3\129597cc0e8a86f0ed13a46387f90674\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\Personal\.gradle\caches\transforms-3\45151893995b8548e72aca0068806a6a\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml:4:9-38
+	android:icon
+		ADDED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml:5:9-43
+activity#com.example.covid_tracker.MainActivity
+ADDED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml:6:9-35:20
+	android:launchMode
+		ADDED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml:8:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml:12:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml:13:13-55
+	android:exported
+		ADDED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml:9:13-36
+	android:configChanges
+		ADDED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml:11:13-163
+	android:theme
+		ADDED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml:10:13-47
+	android:name
+		ADDED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml:7:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml:18:13-21:17
+	android:resource
+		ADDED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml:20:15-52
+	android:name
+		ADDED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml:19:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml:27:13-30:17
+	android:resource
+		ADDED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml:29:15-61
+	android:name
+		ADDED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml:28:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml:32:17-68
+	android:name
+		ADDED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml:33:17-76
+	android:name
+		ADDED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml:33:27-74
+meta-data#flutterEmbedding
+ADDED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml:38:9-40:33
+	android:value
+		ADDED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml:40:13-30
+	android:name
+		ADDED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml:39:13-44
+uses-permission#android.permission.INTERNET
+ADDED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml:42:5-66
+	android:name
+		ADDED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml:42:22-64
+uses-sdk
+INJECTED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Personal\.gradle\caches\transforms-3\cff3d4c16210ad85d8ee193a8dd35f6e\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Personal\.gradle\caches\transforms-3\cff3d4c16210ad85d8ee193a8dd35f6e\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Personal\.gradle\caches\transforms-3\39dfba13257ff08e3a7cc32423be4e32\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Personal\.gradle\caches\transforms-3\39dfba13257ff08e3a7cc32423be4e32\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Personal\.gradle\caches\transforms-3\c7dbc5ac7876747871eb8206ebfa9a8f\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Personal\.gradle\caches\transforms-3\c7dbc5ac7876747871eb8206ebfa9a8f\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Personal\.gradle\caches\transforms-3\c586f001f46d1752ec0ca95f3c3264df\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Personal\.gradle\caches\transforms-3\c586f001f46d1752ec0ca95f3c3264df\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Personal\.gradle\caches\transforms-3\0f5222ee2ee0aab6375fb09187b5fd3c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Personal\.gradle\caches\transforms-3\0f5222ee2ee0aab6375fb09187b5fd3c\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Personal\.gradle\caches\transforms-3\27410b6d47c295ab01db37839fd3a609\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Personal\.gradle\caches\transforms-3\27410b6d47c295ab01db37839fd3a609\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Personal\.gradle\caches\transforms-3\6baf897bded91d0742a6460f66671b09\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Personal\.gradle\caches\transforms-3\6baf897bded91d0742a6460f66671b09\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\Personal\.gradle\caches\transforms-3\45151893995b8548e72aca0068806a6a\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\Personal\.gradle\caches\transforms-3\45151893995b8548e72aca0068806a6a\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Personal\.gradle\caches\transforms-3\2101bc4af23dd8ee1a34cb7c8781f126\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\Personal\.gradle\caches\transforms-3\2101bc4af23dd8ee1a34cb7c8781f126\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Personal\.gradle\caches\transforms-3\e17c98e1e272a6cab1ad66cb6b98f7be\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Personal\.gradle\caches\transforms-3\e17c98e1e272a6cab1ad66cb6b98f7be\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Personal\.gradle\caches\transforms-3\052ae5e02d8597decd1c66ae50a01fd1\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Personal\.gradle\caches\transforms-3\052ae5e02d8597decd1c66ae50a01fd1\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Personal\.gradle\caches\transforms-3\d3d56a722affaa3b69a3a6565b577961\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Personal\.gradle\caches\transforms-3\d3d56a722affaa3b69a3a6565b577961\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Personal\.gradle\caches\transforms-3\608ca59533a2c531e18a3a2ef0518e0d\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Personal\.gradle\caches\transforms-3\608ca59533a2c531e18a3a2ef0518e0d\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Personal\.gradle\caches\transforms-3\32c1399c1b2db830bad5fda08dfbf7eb\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Personal\.gradle\caches\transforms-3\32c1399c1b2db830bad5fda08dfbf7eb\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Personal\.gradle\caches\transforms-3\129597cc0e8a86f0ed13a46387f90674\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Personal\.gradle\caches\transforms-3\129597cc0e8a86f0ed13a46387f90674\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Personal\.gradle\caches\transforms-3\c9d3d4199352079a875f344e788d777f\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Personal\.gradle\caches\transforms-3\c9d3d4199352079a875f344e788d777f\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Personal\.gradle\caches\transforms-3\c5a0d7b94150e47a6c5a46b6ffece581\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Personal\.gradle\caches\transforms-3\c5a0d7b94150e47a6c5a46b6ffece581\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Flutter-Covid-19-Tracker-App-Tutorials-main\android\app\src\main\AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Personal\.gradle\caches\transforms-3\39dfba13257ff08e3a7cc32423be4e32\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Personal\.gradle\caches\transforms-3\39dfba13257ff08e3a7cc32423be4e32\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Personal\.gradle\caches\transforms-3\39dfba13257ff08e3a7cc32423be4e32\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Personal\.gradle\caches\transforms-3\39dfba13257ff08e3a7cc32423be4e32\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Personal\.gradle\caches\transforms-3\39dfba13257ff08e3a7cc32423be4e32\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Personal\.gradle\caches\transforms-3\39dfba13257ff08e3a7cc32423be4e32\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
