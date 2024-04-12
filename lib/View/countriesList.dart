@@ -14,13 +14,11 @@ class CountriesListScreen extends StatefulWidget {
 class _CountriesListScreenState extends State<CountriesListScreen> {
   late Future<List<dynamic>> _countriesFuture;
   TextEditingController searchController = TextEditingController();
-
   @override
   void initState() {
     super.initState();
     _countriesFuture = StateServices().countriesListApi();
   }
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
